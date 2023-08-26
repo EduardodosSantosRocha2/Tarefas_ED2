@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668782103 source:d:\ed2\ex1\vet.c
+	<stdio.h>
+	<stdlib.h>
+	"vet.h"
+
+1668087038 d:\ed2\ex1\vet.h
+
+1668123445 source:d:\ed2\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vet.h"
+

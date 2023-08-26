@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671840854 source:c:\users\dudur\3d objects\grafo utilizando lista de adjacÃªncias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fun.h"
+
+1671840827 source:c:\users\dudur\3d objects\grafo utilizando lista de adjacÃªncias\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"Fun.h"
+
+1671840424 c:\users\dudur\3d objects\grafo utilizando lista de adjacÃªncias\fun.h
+
+1673529063 source:c:\users\dudur\downloads\nova pasta\grafo utilizando lista de adjacências\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"Fun.h"
+
+1673528394 c:\users\dudur\downloads\nova pasta\grafo utilizando lista de adjacências\fun.h
+
+1671840854 source:c:\users\dudur\downloads\nova pasta\grafo utilizando lista de adjacências\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fun.h"
+

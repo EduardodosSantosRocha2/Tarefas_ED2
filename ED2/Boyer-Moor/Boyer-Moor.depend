@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667854507 source:d:\ed2\boyer-moor\main.c
+	<limits.h>
+	<string.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668789208 source:d:\ed2\exhashlista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

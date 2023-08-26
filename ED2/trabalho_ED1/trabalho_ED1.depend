@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686464674 source:d:\ed2\trabalho_ed1\funcoes.c
+	"cabecalho.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686464677 d:\ed2\trabalho_ed1\cabecalho.h
+
+1686464676 source:d:\ed2\trabalho_ed1\main.c
+	"cabecalho.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

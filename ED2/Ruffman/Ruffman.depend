@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1671460083 source:d:\ed2\ruffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	"Fun.h"
+
+1671460083 source:d:\ed2\ruffman\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	"Fun.h"
+
+1671460044 d:\ed2\ruffman\fun.h
+
